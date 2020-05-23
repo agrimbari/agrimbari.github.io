@@ -21,7 +21,7 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
-  	Website Idea and genesis: Utsav Gupta (IIT Kanpur)
+  	Website Idea and genesis: Utsav Gupta
   
 	Demo Images:
 		Unsplash (unsplash.com)
